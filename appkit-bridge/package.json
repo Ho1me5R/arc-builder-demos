@@ -1,0 +1,19 @@
+{
+  "name": "appkit-bridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@circle-fin/adapter-viem-v2": "^1.11.1",
+    "@circle-fin/app-kit": "^1.6.1",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3",
+    "viem": "^2.50.4"
+  }
+}
