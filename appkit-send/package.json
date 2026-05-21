@@ -1,0 +1,17 @@
+{
+  "name": "appkit-send",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@circle-fin/adapter-viem-v2": "^1.11.1",
+    "@circle-fin/app-kit": "^1.6.1",
+    "viem": "^2.50.4"
+  }
+}
